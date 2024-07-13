@@ -1,11 +1,20 @@
-### _You cannot improve your past,but you can improve your future!_
+### _You cannot improve your past,but you can improve your future!☀️_
 ****
-#### _I am BY_DLIFE._
-#### _I aspire to become an excellent smart contract auditor and smart contract development engineer._
+<!--状态展示：-->
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=LBiyou&show_icons=true&theme=cobalt&count_private=true&hide="/>
 
-**LBiyou/LBiyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### _I am BY_DLIFE. 👋_
+#### _I aspire to become an excellent smart contract auditor and smart contract development engineer.💬_
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=blue)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-Here are some ideas to get you started:
+- Blog:[BY_DLIFE Blob](https://lbiyou.github.io/)
+- Telegrame:[@BY_DLIFE](https://t.me/BY_DLIFE)
+- Discord:
+- Email:
+- Twitter:[@biyou177209](https://x.com/biyou177209)
+  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,14 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!--状态展示：-->
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=LBiyou&show_icons=true&theme=cobalt&count_private=true&hide="/>
-
-
+<!--
+<img align="left"  src="https://stats.justsong.cn/api/bilibili/?id=你的用户id&theme=cobalt"/>
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=你的用户id&theme=主题名称)
 ![leetcode](https://stats.justsong.cn/api/leetcode/?username=你的用户id&cn=true)
 ![csdn](https://stats.justsong.cn/api/csdn?id=你的用户id&theme=radical)
-![github](https://stats.justsong.cn/api/github?username=你的用户名&theme=radical)
+
+-->
 
 
 

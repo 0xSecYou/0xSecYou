@@ -7,6 +7,13 @@
 
 #### _I am BY_DLIFE. 👋_
 #### _I aspire to become an excellent smart contract auditor and smart contract development engineer.💬_
+
+<!-- 编程语言图标
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=blue)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+-->
+
 <!--
 打字效果
 https://readme-typing-svg.herokuapp.com/demo/

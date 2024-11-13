@@ -1,7 +1,9 @@
 ### _You cannot improve your past,but you can improve your future!☀️_
 ****
 <!--状态展示：-->
+<!--
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=LBiyou&show_icons=true&theme=cobalt&count_private=true&hide="/>
+-->
 
 #### _I am BY_DLIFE. 👋_
 #### _I aspire to become an excellent smart contract auditor and smart contract development engineer.💬_

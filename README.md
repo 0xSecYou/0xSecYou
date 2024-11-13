@@ -16,12 +16,12 @@ https://readme-typing-svg.herokuapp.com/demo/
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 -->
-
+<!--
 + Blog: [BY_DLIFE Blob](https://lbiyou.github.io/)
 + Telegrame: [@BY_DLIFE](https://t.me/BY_DLIFE)
 + Email: biyou999666@gmail.com
 + Twitter: [@biyou177209](https://x.com/biyou177209)
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
